@@ -1,0 +1,11 @@
+---
+title: "Euler"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[Project Euler](git remote add origin https://github.com/konradzdeb/Euler.git
+git push -u origin master) solutions.
