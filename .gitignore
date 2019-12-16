@@ -1,0 +1,6 @@
+# Rstudio production files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+sessionInfoLog

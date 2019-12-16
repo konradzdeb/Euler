@@ -1,0 +1,15 @@
+---
+title: "Large product scratchpad"
+output:
+  html_document: default
+  html_notebook: default
+---
+
+Scratchpad facilitating large product Eurler project 11 task.
+
+```{r previewSampleMatrix, echo=TRUE}
+# Generate matrix with number 1:10
+Mcounts <- matrix(data = 0:399, nrow = 20, ncol = 20)
+xtable::xtable(Mcounts)
+```
+
