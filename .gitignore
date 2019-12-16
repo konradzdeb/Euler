@@ -7,3 +7,9 @@ sessionInfoLog
 
 # Ignore notebooks and scratchpads
 *.html
+
+# Ignore compiled files
+problems/14/collatz
+problems/14/collatz.dSYM
+problems/14/collatz2
+problems/14/collatz2.dSYM
